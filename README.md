@@ -9,3 +9,11 @@
 [DataGrid Docs](https://js.devexpress.com/React/Documentation/Guide/UI_Components/DataGrid/Getting_Started_with_DataGrid/)
 
 [DataGrid Demos](https://js.devexpress.com/React/Demos/WidgetsGallery/Demo/DataGrid/Overview/MaterialBlueLight/)
+
+#### To Run
+
+```
+cd ./frontend && npm install
+cd ./backend && npm install
+npm run dev
+```
