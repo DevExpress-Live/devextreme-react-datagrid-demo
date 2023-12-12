@@ -2,7 +2,7 @@ import React from "react";
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import "./App.css";
-import "./dark.css";
+import "devextreme/dist/css/dx.material.blue.light.css";
 
 import Home from "./pages/Home";
 import Employees from "./pages/Employees";
